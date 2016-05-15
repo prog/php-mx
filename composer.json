@@ -1,0 +1,14 @@
+{
+	"name": "peterbodnar.com/mx",
+	"description": "2D Matrix interface",
+	"keywords": [],
+	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+	"require": {
+		"php": "^5.4 || ^7.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"com\\peterbodnar\\mx\\": "src/"
+		}
+	}
+}
